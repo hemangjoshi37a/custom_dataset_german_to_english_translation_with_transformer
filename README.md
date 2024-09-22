@@ -1,5 +1,3 @@
-
-
 # Custom Dataset German to English Translation with Transformer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -84,18 +82,11 @@ Contributions to improve the project are welcome. Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-Hemang Joshi - [hemangjoshi37a@gmail.com](mailto:hemangjoshi37a@gmail.com)
-
-Project Link: [https://github.com/your-username/custom_dataset_german_to_english_translation_with_transformer](https://github.com/your-username/custom_dataset_german_to_english_translation_with_transformer)
-
 ## Acknowledgements
 
 - [Technion - Israel Institute of Technology](https://www.technion.ac.il/en/home-2/)
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
 - [BLEU Score Implementation](https://github.com/mjpost/sacrebleu)
-
 
 ## 📫 How to reach me
 [<img height="36" src="https://cdn.simpleicons.org/WhatsApp"/>](https://wa.me/917016525813) &nbsp;
